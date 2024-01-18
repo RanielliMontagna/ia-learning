@@ -1,8 +1,5 @@
 <div>
-    <h1 align="center" style={{margin: 0}}>AI</h1>
-    <h3 align="center" style={{margin: 0}}>
-        Learning
-    </h3>
+    <h1 align="center" style={{margin: 0}}>AI Learning 🤖</h1>
 </div>
 
 ## 📖 Introduction
@@ -39,10 +36,8 @@ Supervised algorithm with Multiple Linear Regression. Explore variable interacti
 
 Dedicated module on polynomials and polynomial regression. From EDA to practical implementation in an application with API and interface development. Emphasis on cross-validation for accuracy and overfitting control.
 
-
 ## And more...
-
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
